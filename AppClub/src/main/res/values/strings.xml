@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+  -->
+<resources>
+    <string name="parse_app_id">JNxP5s2mVZER3slRzeEoiRXQBufA44iYXXNUIB0R</string>
+    <string name="parse_client_key">Q9I53pvmL0ktXOiM1B11ofpmDCJvJXiCGsK0wQIl</string>
+    <string name="app_name">App Club</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="action_settings">Settings</string>
+</resources>
